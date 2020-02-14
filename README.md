@@ -6,6 +6,10 @@ Por Martín Rivera.
 Aquí encontrarás las diapositivas utilizadas en la ponencia.
 
 ## Links a recursos relacionados.
+- Cocolab (link)
+- Entrenamiento Auditivo Earfullness (youtube)
+- Discos Carnitas (link)
 - "Drum machine" para web browser creado con p5.js. (Repositorio de github)
 - Caguama MIDI. (youTube)
-- N'synth Magenta (github) y DDSP (github)
+- Nsynth Magenta (github)
+- DDSP (github)
