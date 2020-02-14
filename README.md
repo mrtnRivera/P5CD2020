@@ -3,7 +3,7 @@ Repositorio para la presentación **"Instrumentos musicales interactivos con Pro
 Por Martín Rivera.
 
 ## Slides de la presentación
-Aquí encontrarás las diapositivas utilizadas en la ponencia.
+Aquí encontrarás las [diapositivas](https://github.com/mrtnRivera/P5CD2020/blob/master/presentacion/PCD2020%20_Instrumentos%20musicales%20interactivos%20en%20P5_.pdf) utilizadas en la ponencia.
 
 ## Links a recursos relacionados.
 - [Cocolab](https://cocolab.mx/#inicio)
@@ -16,4 +16,4 @@ Aquí encontrarás las diapositivas utilizadas en la ponencia.
 - [Yaeltex](https://yaeltex.com/)
 - [Caguama MIDI](https://www.youtube.com/watch?v=fhCrUe7sqqs)
 - [Tutorial: How to Create TouchOSC Templates that Control Your Elektron Digitakt](https://www.youtube.com/watch?v=85Sv3KFWjwg)
-- ["Drum machine" para web browser creado con p5.js.](https://github.com/mrtnRivera/web_Browser_Drum_Machine)
+- ["Drum machine" para web browser creado con p5.js](https://github.com/mrtnRivera/web_Browser_Drum_Machine)
