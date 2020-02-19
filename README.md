@@ -1,6 +1,7 @@
 # Processing Community Day 2020
 Repositorio para la presentación **"Instrumentos musicales interactivos con Processing"** y links a recursos relacionados.
 Por Martín Rivera.
+Contacto: developer.martinrivera@gmail.com
 
 ## Slides de la presentación
 Aquí encontrarás las [diapositivas](https://github.com/mrtnRivera/P5CD2020/blob/master/presentacion/PCD2020%20_Instrumentos%20musicales%20interactivos%20en%20P5_.pdf) utilizadas en la ponencia.
